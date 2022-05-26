@@ -1,3 +1,5 @@
+
+//Function Shows max number of Your Input
 function findMax(...arguments) {
   let max=-Infinity;
   for (let i = 0; i < arguments.length; i++) 

@@ -1,3 +1,5 @@
+
+//Function Shows MIN&MAX number of Your Input
 function findMin(...arguments) {
     let min=Infinity;
     for (let i = 0; i < arguments.length; i++) 

@@ -1,3 +1,5 @@
+
+//Function shows the Ascii vale of input string
 function asciiShow(...str1){
     for(j=0;j<str1.length;j++){
         let ascii=[];
