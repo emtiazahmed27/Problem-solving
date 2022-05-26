@@ -4,5 +4,4 @@ function findMin(...arguments) {
       if(arguments[i]<min) min =arguments[i];     
     console.log(min);
 }
-findMin(12,12342,21,5,123,435,6,2);
-
+findMin(121782616,251,21);
