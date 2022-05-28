@@ -1,7 +1,5 @@
 
-
 //Function shows a pattern if numbeer is divisible by 5
-
 function pattern(a){
     let arr=[];
     let count=0;
