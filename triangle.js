@@ -1,6 +1,6 @@
 
-//write a code to form a triangle. A triangle has three arm (a,b,c). 
-//Any arm being zero will cause invalid input.
+// write a code to form a triangle. A triangle has three arm (a,b,c). 
+// Any arm being zero will cause invalid input.
 function triangle(a,b,c){
     if (a==0||b==0||c==0){
         console.log("invalid input");
@@ -13,3 +13,5 @@ function triangle(a,b,c){
 triangle(10,9,12);
 triangle(1,9,12);
 triangle(0,9,12);
+
+
