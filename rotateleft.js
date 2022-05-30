@@ -1,6 +1,6 @@
-//sample input: 12345
-//sample output: 23451
 
+//sample input: 12345    3
+//sample output: 23451   45123
 function rotateLeft(arr){
     let temp;
     for(let i=0;i<arr.length-1;i++){
