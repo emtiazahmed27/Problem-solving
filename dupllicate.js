@@ -2,3 +2,15 @@
 // "din"      =>  "((("
 // "recede"   =>  "()()()"
 
+
+let str="hello";
+let arr=str.split('');
+let count=0;
+console.log(arr);
+for(let i=0; i<arr.length;i++){
+    if(arr.lastIndexOf(arr[i]==arr.indexOf(arr[i])))
+    console.log(arr[i]+" ->1");
+    else {
+        count+=1;
+        console.log(arr[i]+" ->"+count)};
+}
